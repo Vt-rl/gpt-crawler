@@ -135,3 +135,5 @@ Know how to make this project better? Send a PR!
        </picture>
    </a>
 </p>
+
+## I am learning to use GIT
